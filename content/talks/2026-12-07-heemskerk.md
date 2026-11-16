@@ -2,7 +2,7 @@
 date: 2026-12-07T14:00:00
 duration: 60
 season: "2026-27"
-title: "Title to be announced"
+title: "Decoding cell signaling in 2D human gastruloids"
 status: "scheduled"
 format: "pi"
 speakers:
@@ -13,5 +13,3 @@ zoom_url: ""
 recording_url: ""
 preprint_url: ""
 ---
-
-The talk title will be announced to members by email.
